@@ -1,0 +1,1 @@
+java -jar -Dserver.port=8080 -Dserver.servlet.context-path=/ /app.jar
